@@ -50,4 +50,4 @@ European Parliament Proceedings Parallel Corpus 1996-2011
 
 * https://github.com/niderhoff/nlp-datasets
 
-https://machinelearningmastery.com/datasets-natural-language-processing/
+* https://machinelearningmastery.com/datasets-natural-language-processing/
