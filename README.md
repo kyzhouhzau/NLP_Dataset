@@ -51,3 +51,26 @@ European Parliament Proceedings Parallel Corpus 1996-2011
 * https://github.com/niderhoff/nlp-datasets
 
 * https://machinelearningmastery.com/datasets-natural-language-processing/
+
+
+
+# Biomedcial Field
+
+## [Mutation extraction](http://infos.korea.ac.kr/bronco/)
+* [MutationFinder(MF)](http://mutationfinder.sourceforge.net/)
+
+was  developed  to  extractpoint mutations from the literature using a rule-based ap-proach.
+* [extractor of mutation(EMU)](http://bioinf.umbc.edu/EMU/ftp/)
+
+ It extracts not only pointmutations but also insertion/deletion mutation
+* [tmVar](https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/)
+
+is a text-mining approach that is based ona conditional random fields (CRF) 
+
+
+**All above data come from here:**[http://infos.korea.ac.kr/bronco/PublicCorpus.zip](http://infos.korea.ac.kr/bronco/PublicCorpus.zip)
+
+
+
+
+
